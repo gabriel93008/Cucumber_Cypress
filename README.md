@@ -21,5 +21,11 @@
 >npm install --save-dev cypress cypress-cucumber-preprocessor
 >npm install -D cypress-xpath
 
+### Colocando o comando 'npx cypress open' no terminal para executar o teste.
 
 ![Npx open](https://user-images.githubusercontent.com/111756886/213320160-9b174ece-728f-4aa9-9362-8a9a988e13d7.png)
+
+### Feito isso o teste é feito com sucesso.
+
+![image](https://user-images.githubusercontent.com/111756886/213321996-27d988ac-1508-4fc8-9130-c81ab0fb1371.png)
+
