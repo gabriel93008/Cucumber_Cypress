@@ -17,5 +17,9 @@
 ### Cucumber pode ser instalado da seguinte forma pelo PowerShell no VScode.
 >npm install cucumber
 
-### Cypress instalação a seguir.
+### Cypress instalação a seguir, Cypress xpath é opicional caso for necessario usar a instalação esta disponivel.
 >npm install --save-dev cypress cypress-cucumber-preprocessor
+>npm install -D cypress-xpath
+
+
+![Npx open](https://user-images.githubusercontent.com/111756886/213320160-9b174ece-728f-4aa9-9362-8a9a988e13d7.png)
