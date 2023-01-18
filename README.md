@@ -13,3 +13,9 @@
     "devDependencies": {
         "cypress-xpath": "^2.0.1"
     }
+    
+### Cucumber pode ser instalado da seguinte forma pelo PowerShell no VScode.
+>npm install cucumber
+
+### Cypress instalação a seguir.
+>npm install --save-dev cypress cypress-cucumber-preprocessor
