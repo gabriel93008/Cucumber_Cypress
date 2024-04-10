@@ -1,10 +1,10 @@
 # Cucumber_Cypress
 
-<h2> Este é um projeto de testesutiliazando Cucumber, Cypress, JavaScript e Gherkin. </h2>
+<h2> Este é um projeto de testes utiliazando Cucumber, Cypress, JavaScript e Gherkin. </h2>
 
 <h2> Para iniciar o projeto é preciso instalar suas dependencias que são: </h2>
 
-### Esteve codigo em Json mostra o que precisamos para instalar as dependencias.
+### Este código em Json mostra o que precisamos para instalar as dependencias.
 >"dependencies": {
         "cucumber": "^6.0.7",
         "cypress": "^9.7.0",
